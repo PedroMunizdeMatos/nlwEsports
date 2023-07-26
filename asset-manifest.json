@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nlwEsports/static/css/main.785410ae.css",
-    "main.js": "/nlwEsports/static/js/main.d4e7e68f.js",
+    "main.js": "/nlwEsports/static/js/main.2fc9d95c.js",
     "static/media/bg.jpg": "/nlwEsports/static/media/bg.829cc694262cbb31863d.jpg",
     "index.html": "/nlwEsports/index.html",
     "main.785410ae.css.map": "/nlwEsports/static/css/main.785410ae.css.map",
-    "main.d4e7e68f.js.map": "/nlwEsports/static/js/main.d4e7e68f.js.map"
+    "main.2fc9d95c.js.map": "/nlwEsports/static/js/main.2fc9d95c.js.map"
   },
   "entrypoints": [
     "static/css/main.785410ae.css",
-    "static/js/main.d4e7e68f.js"
+    "static/js/main.2fc9d95c.js"
   ]
 }
