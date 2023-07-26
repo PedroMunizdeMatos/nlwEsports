@@ -46,22 +46,22 @@ const channelListData = [
 const socialListData = [
   {
     url: "https://www.instagram.com/phmuniz/",
-    imageUrl: "/assets/instagram.svg",
+    imageUrl: "./assets/instagram.svg",
     alt: "Instagram do Pedro",
   },
   {
     url: "https://www.twitter.com/",
-    imageUrl: "/assets/twitter.svg",
+    imageUrl: "./assets/twitter.svg",
     alt: "Twitter",
   },
   {
     url: "https://www.twitch.tv/",
-    imageUrl: "/assets/twitch.svg",
+    imageUrl: "./assets/twitch.svg",
     alt: "Twitch",
   },
   {
     url: "https://www.youtube.com/",
-    imageUrl: "/assets/youtube.svg",
+    imageUrl: "./assets/youtube.svg",
     alt: "Youtube",
   },
 ]
